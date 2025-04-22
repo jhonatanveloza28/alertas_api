@@ -1,0 +1,7 @@
+/Library/Desarrollo/Universidad/ELECTIVA 3/alertas_api/src/main/java/org/alertas/alertas_api/AlertasApiApplication.java
+/Library/Desarrollo/Universidad/ELECTIVA 3/alertas_api/src/main/java/org/alertas/alertas_api/controllers/AlertaController.java
+/Library/Desarrollo/Universidad/ELECTIVA 3/alertas_api/src/main/java/org/alertas/alertas_api/dtos/AlertaDTO.java
+/Library/Desarrollo/Universidad/ELECTIVA 3/alertas_api/src/main/java/org/alertas/alertas_api/entities/AlertaEntity.java
+/Library/Desarrollo/Universidad/ELECTIVA 3/alertas_api/src/main/java/org/alertas/alertas_api/repositories/AlertasRepository.java
+/Library/Desarrollo/Universidad/ELECTIVA 3/alertas_api/src/main/java/org/alertas/alertas_api/services/IAlertasService.java
+/Library/Desarrollo/Universidad/ELECTIVA 3/alertas_api/src/main/java/org/alertas/alertas_api/services/implement/AlertasServicesImplements.java
